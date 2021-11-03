@@ -1,4 +1,4 @@
-## mon premier site
+## Mon premier site ou accueil
 
 You can use the [editor on GitHub](https://github.com/MarianneCanu/portefolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+![Logo_noir](https://user-images.githubusercontent.com/74007723/140165235-14b40eaa-2e01-4771-89cf-e8f75a891ebb.png)
