@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## mon premier site
 
 You can use the [editor on GitHub](https://github.com/MarianneCanu/portefolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**gras** and _Italic_ _123_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
